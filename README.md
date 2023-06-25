@@ -7,7 +7,7 @@
 
 <!-- Tecnologias -->  
 <div style="display: inline_block">
-  <h2>Atual atualmente com</h2>
+  <h2>Atualmente atuo com</h2>
   <h3>Front-end 💻</h3>
   <img align="center" alt="Kelvin-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kelvin-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
